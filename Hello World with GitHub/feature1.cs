@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hello_World_with_GitHub
 {
-    class Program
+    class feature1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-            Console.ReadKey(true);
-        }
     }
 }
